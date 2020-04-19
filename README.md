@@ -7,7 +7,7 @@ Projects will be displayed below with GIFs I made showcasing each one's
 functionality.
 
 However, each project can be demo-ed on your own PC by: 
-1. Dowloading the corresponding project folder to your PC
+1. Dowloading the corresponding project folder to your PC (ex: Marching Squares)
 2. Opening the index.html file with Google Chrome or any 
-   other popular browser by right clicking on it.
+   other popular browser by right clicking on it. 
 
