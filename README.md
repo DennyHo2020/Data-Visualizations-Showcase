@@ -22,4 +22,7 @@ Skills learned and practiced in this project:
 3. d3.js library 
 4. Experimenting with visual encoding of scalar fields utilizing both isocontour outlines and filled isocontours.
 
+Example of a Case Table: 
+![image](https://user-images.githubusercontent.com/31720526/79689164-dea5a100-8207-11ea-97b7-f9871855f752.png)
+
 
