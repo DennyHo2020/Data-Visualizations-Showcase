@@ -1,4 +1,4 @@
-# Data-Visualizations-Showcase
+# Data Visualizations Showcase
 
 This is a Showcase of all the different Data Viz projects I have created using
 the D3.js library, Javascript, HTML, and CSS.
