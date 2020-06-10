@@ -16,9 +16,8 @@ However, each project can be demo-ed on your own PC by:
 Marching Squares visualizes two-dimensional scalar fields through the use of contours.
 In this case I used the Hurricane Isabel dataset, with Temperature and Pressure being the scalar fields.
 
-![Screen Shot 2020-06-09 at 5 04 21 PM](https://user-images.githubusercontent.com/31720526/84212702-6a52e580-aa73-11ea-9a0b-f54699b34c68.png)
-
 ![Screen Shot 2020-06-09 at 5 04 15 PM](https://user-images.githubusercontent.com/31720526/84212706-6c1ca900-aa73-11ea-9c05-08a83f699bb5.png)
+![Screen Shot 2020-06-09 at 5 04 21 PM](https://user-images.githubusercontent.com/31720526/84212702-6a52e580-aa73-11ea-9a0b-f54699b34c68.png)
 
 Skills learned and practiced in this project:
 1. Implementing the marching squares algorithm for extracting isocontours in a piecewise manner
