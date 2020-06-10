@@ -11,7 +11,7 @@ However, each project can be demo-ed on your own PC by:
 2. Opening the index.html file with Google Chrome or any 
    other popular browser by right clicking on it. 
    
-## Linked Views
+# Linked Views
 
 Linked Views visualizes how two scatterplots can be linked together enabling them to interact with each other through selection and brushing. The data used for the scatterplot is Iris Flower Data that has Sepal/Petal length and width.
 
@@ -22,7 +22,7 @@ Skills learned and practiced in this project:
 2. linking views
 3. selecting and highlighting data
 
-## Marching Squares 
+# Marching Squares 
 
 Marching Squares visualizes two-dimensional scalar fields through the use of contours.
 In this case I used the Hurricane Isabel dataset, with Temperature and Pressure being the scalar fields.
