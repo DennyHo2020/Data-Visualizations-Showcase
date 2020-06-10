@@ -36,6 +36,16 @@ Skills learned and practiced in this project:
 2. linking views
 3. selecting and highlighting data
 
+# Tree Map
+
+TreeMap of the Flare dataset. 
+
+![treemap](https://user-images.githubusercontent.com/31720526/84215327-cbca8280-aa7a-11ea-8abc-74651dc9fece.gif)
+
+Skills learned and practiced in this project:
+1. treemap view suitable for visualizing data hierarchies using containment
+2. tree traversals in Javascript to compute geometric representations
+3. limitations of using size and area to encode hierarchies
 
 # Marching Squares 
 
