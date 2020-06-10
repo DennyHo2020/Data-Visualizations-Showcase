@@ -11,6 +11,12 @@ However, each project can be demo-ed on your own PC by:
 2. Opening the index.html file with Google Chrome or any 
    other popular browser by right clicking on it. 
    
+# Parallel Coordinates
+
+Parallel Coordinates View for multi-dimensional datasets. The data used for the scatterplot is Iris Flower Data that has Sepal/Petal length and width.
+
+
+   
 # Linked Views
 
 Linked Views visualizes how two scatterplots can be linked together enabling them to interact with each other through selection and brushing. The data used for the scatterplot is Iris Flower Data that has Sepal/Petal length and width.
