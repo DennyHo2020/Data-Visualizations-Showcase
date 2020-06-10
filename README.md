@@ -11,10 +11,18 @@ However, each project can be demo-ed on your own PC by:
 2. Opening the index.html file with Google Chrome or any 
    other popular browser by right clicking on it. 
    
+   
 # Parallel Coordinates
 
 Parallel Coordinates View for multi-dimensional datasets. The data used for the scatterplot is Iris Flower Data that has Sepal/Petal length and width.
 
+![image](https://user-images.githubusercontent.com/31720526/84214929-b43eca00-aa79-11ea-98bd-96ed6017b0f4.png)
+
+Skills learned and practiced in this project:
+1. parallel views
+2. brush.d3
+3. svg paths
+4. selecting and highlighting data
 
    
 # Linked Views
@@ -27,6 +35,7 @@ Skills learned and practiced in this project:
 1. brush.d3
 2. linking views
 3. selecting and highlighting data
+
 
 # Marching Squares 
 
