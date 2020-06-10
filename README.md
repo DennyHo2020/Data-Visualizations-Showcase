@@ -16,7 +16,7 @@ However, each project can be demo-ed on your own PC by:
 
 Parallel Coordinates View for multi-dimensional datasets. The data used for the scatterplot is Iris Flower Data that has Sepal/Petal length and width.
 
-![image](https://user-images.githubusercontent.com/31720526/84214929-b43eca00-aa79-11ea-98bd-96ed6017b0f4.png)
+![parallelcoord](https://user-images.githubusercontent.com/31720526/84215219-755d4400-aa7a-11ea-9088-4e73633b6257.gif)
 
 Skills learned and practiced in this project:
 1. parallel views
