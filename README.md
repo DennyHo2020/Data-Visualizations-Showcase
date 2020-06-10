@@ -66,3 +66,14 @@ Example of a Case Table:
 ![image](https://user-images.githubusercontent.com/31720526/79689164-dea5a100-8207-11ea-97b7-f9871855f752.png)
 
 
+# Transitions in Data
+
+This visualization is a scatterplot that can transition data by changing color or axis representation.
+
+![calvinscores](https://user-images.githubusercontent.com/31720526/84215668-d1749800-aa7b-11ea-9332-0f82d1f26777.gif)
+
+Skills learned and practiced in this project:
+1. d3.js scales
+2. d3.js axes
+3. d3.js transitions
+
